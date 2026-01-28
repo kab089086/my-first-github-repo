@@ -6,3 +6,6 @@ My first GitHub practice
 - 学习新建仓库
 - 学习修改 README
 - 记录简单的学习笔记
+## 学习记录
+- 第一次学会创建仓库
+- 第一次修改 README

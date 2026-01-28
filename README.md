@@ -9,3 +9,5 @@ My first GitHub practice
 ## 学习记录
 - 第一次学会创建仓库
 - 第一次修改 README
+## 分支练习
+这是我在分支中修改的内容
